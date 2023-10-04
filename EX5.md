@@ -21,8 +21,8 @@
 
 ### PLSQL Trigger code:
 ```
-DEVELOPED BY:  BARATHRAJ.B
-REG NO:212222230019
+DEVELOPED BY:  mihra mukundaa S G
+REG NO:212222100026
 ```
 ```
 -- Create the trigger
